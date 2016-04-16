@@ -3,12 +3,12 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common.\_When we need to understand how things are changing, we ask young people.\_"
-datePublished: '2016-04-16T15:01:00.526Z'
-dateModified: '2016-04-16T14:59:43.853Z'
-title: On Millenials
+datePublished: '2016-04-16T16:13:37.156Z'
+dateModified: '2016-04-16T16:13:24.588Z'
+title: Thoughts on Millennials
 author: []
 sourcePath: _posts/2016-04-16-young-people-know-things.md
 published: true
@@ -51,6 +51,8 @@ Any uniformity in the Millennial cohort comes from a single fact: their date of 
 
 * A common lifestage right now
 * A common experience of previous lifestages
+
+****
 
 **What does all this mean for opportunity identification? **
 
