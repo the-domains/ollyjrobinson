@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common.\_When we need to understand how things are changing, we ask young people.\_"
-datePublished: '2016-04-16T16:13:37.156Z'
-dateModified: '2016-04-16T16:13:24.588Z'
+datePublished: '2016-04-16T16:22:03.896Z'
+dateModified: '2016-04-16T16:21:45.457Z'
 title: Thoughts on Millennials
 author: []
 sourcePath: _posts/2016-04-16-young-people-know-things.md
