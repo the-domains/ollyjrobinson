@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Your most dangerous competitors are asymmetric.\_"
-datePublished: '2016-04-16T16:14:17.139Z'
-dateModified: '2016-04-16T16:14:09.258Z'
+description: "The most dangerous competitors are the asymmetric ones.\_"
+datePublished: '2016-04-16T18:38:15.114Z'
+dateModified: '2016-04-16T17:11:18.034Z'
 title: Thoughts on Asymmetries
 author: []
+sourcePath: _posts/2016-04-16-thoughts-on-asymmetries.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-thoughts-on-asymmetries.md
-published: true
 url: thoughts-on-asymmetries/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ The most dangerous competitors are the asymmetric ones.
 
 They're the ones that don't just make your market more competitive, they flip it upside-down and inside-out. 
 
-**They don't just rock the boat, they capsize it. **
+They don't just rock the boat, they capsize it. 
 
 They're also unnervingly hard to spot.
 
