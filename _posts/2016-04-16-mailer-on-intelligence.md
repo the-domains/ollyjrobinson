@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Big Empty, Norman Mailer (2006)'
-datePublished: '2016-04-16T16:21:08.178Z'
-dateModified: '2016-04-16T16:21:07.322Z'
+datePublished: '2016-04-16T18:27:31.686Z'
+dateModified: '2016-04-16T18:27:21.687Z'
 title: Mailer on Intelligence
 author: []
+sourcePath: _posts/2016-04-16-mailer-on-intelligence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-mailer-on-intelligence.md
-published: true
 url: mailer-on-intelligence/index.html
 _type: Article
 
