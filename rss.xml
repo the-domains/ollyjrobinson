@@ -4,8 +4,15 @@
         <description><![CDATA[ollyjrobinson]]></description>
         <link>https://thegrid.ai/ollyjrobinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 16:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 16:23:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ollyjrobinson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Machiavelli on Perspective]]></title>
+            <description><![CDATA[<article><h1>Machiavelli on Perspective</h1><p>Letter to the Magnificent Lorenzo de Medici, Niccolo Machiavelli (1513)</p></article>]]></description>
+            <link>https://thegrid.ai/ollyjrobinson/82b475ce-ec2c-4019-b7a8-fb5638f43553/index.html</link>
+            <guid isPermaLink="false">82b475ce-ec2c-4019-b7a8-fb5638f43553</guid>
+            <pubDate>Sat, 16 Apr 2016 16:23:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Thoughts on Millennials]]></title>
             <description><![CDATA[<article><h1>Thoughts on Millennials</h1><p>Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common. When we need to understand how things are changing, we ask young people. </p></article>]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/ollyjrobinson/thoughts-on-asymmetries/index.html</link>
             <guid isPermaLink="false">9cf6d9d9-6150-4a0e-8bc9-39b8c942d42b</guid>
             <pubDate>Sat, 16 Apr 2016 16:14:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[On perspective]]></title>
-            <description><![CDATA[<h1>On perspective</h1>]]></description>
-            <link>https://thegrid.ai/ollyjrobinson/82b475ce-ec2c-4019-b7a8-fb5638f43553/index.html</link>
-            <guid isPermaLink="false">82b475ce-ec2c-4019-b7a8-fb5638f43553</guid>
-            <pubDate>Sat, 16 Apr 2016 14:43:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
