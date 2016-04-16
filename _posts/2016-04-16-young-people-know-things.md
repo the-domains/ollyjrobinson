@@ -1,29 +1,27 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "Young people know things.\_"
-datePublished: '2016-04-16T14:22:58.079Z'
-dateModified: '2016-04-16T14:22:16.998Z'
-title: ''
+description: "Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common.\_When we need to understand how things are changing, we ask young people.\_"
+datePublished: '2016-04-16T15:01:00.526Z'
+dateModified: '2016-04-16T14:59:43.853Z'
+title: On Millenials
 author: []
+sourcePath: _posts/2016-04-16-young-people-know-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-16-young-people-know-things.md
-published: true
 url: young-people-know-things/index.html
 _type: Article
 
 ---
-## On Millennials
-
 Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common. When we need to understand how things are changing, we ask young people. 
 
 Young people **know** things. 
