@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "The most dangerous competitors are the asymmetric ones.\_"
-datePublished: '2016-04-16T18:38:15.114Z'
-dateModified: '2016-04-16T17:11:18.034Z'
+datePublished: '2016-04-16T18:42:32.872Z'
+dateModified: '2016-04-16T18:40:05.279Z'
 title: Thoughts on Asymmetries
 author: []
 sourcePath: _posts/2016-04-16-thoughts-on-asymmetries.md
