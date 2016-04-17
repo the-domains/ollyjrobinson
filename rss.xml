@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ollyjrobinson]]></title>
+        <description><![CDATA[ollyjrobinson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 16:20:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On Millennials]]></title>
+            <description><![CDATA[<article><h1>On Millennials</h1><p>Researchers, marketers, pretty much anyone with a passing interest in innovation: we all have one thing in common. When we need to understand how things are changing, we ask young people. 
+</p></article>]]></description>
+            <link>undefinedon-millennials/index.html</link>
+            <guid isPermaLink="false">e9d285e9-d02d-4231-b200-61213b2692a5</guid>
+            <pubDate>Sun, 17 Apr 2016 16:20:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
