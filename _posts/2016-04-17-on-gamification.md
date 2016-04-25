@@ -3,11 +3,10 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: "As researchers, we have a responsibility (whether we like it or not) for the people taking part in our research.\_"
-datePublished: '2016-04-25T18:00:10.510Z'
-dateModified: '2016-04-17T16:58:28.839Z'
+description: 'As researchers, we have a responsibility (whether we like it or not) for the people taking part in our research. '
+datePublished: '2016-04-25T18:04:22.908Z'
+dateModified: '2016-04-25T18:00:13.866Z'
 title: On Gamification
 author: []
 sourcePath: _posts/2016-04-17-on-gamification.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: on-gamification/index.html
 _type: Article
 
@@ -26,9 +26,9 @@ _type: Article
 
 As researchers, we have a responsibility (whether we like it or not) for the people taking part in our research. 
 
-This is partly about a basic duty of care, but there's also an oft-overlooked and more intrinsically selfish motivation: more engaged people tend to provide better quality data. 
+This is partly about a basic duty of care, but there's also an oft-overlooked and more intrinsically selfish motivation: **more engaged people tend to provide better quality data. **
 
-**Can Gamification help?**
+Can Gamification help?
 
 Defined by Wikipedia as "the application of game-design elements and game principles in non-game contexts," the basic concepts and terminology have been liberally thrown around for five years or so. 
 
