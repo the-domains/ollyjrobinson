@@ -4,8 +4,15 @@
         <description><![CDATA[ollyjrobinson]]></description>
         <link>https://thegrid.ai/ollyjrobinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 18:04:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 12:32:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ollyjrobinson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[On Automation]]></title>
+            <description><![CDATA[<article><h1>On Automation</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/ollyjrobinson/on-automation/index.html</link>
+            <guid isPermaLink="false">9f7945d7-82d8-4b05-ae7e-3867099015eb</guid>
+            <pubDate>Tue, 26 Apr 2016 12:32:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[On Gamification]]></title>
             <description><![CDATA[<article><h1>On Gamification</h1><p>As researchers, we have a responsibility (whether we like it or not) for the people taking part in our research. </p></article>]]></description>
