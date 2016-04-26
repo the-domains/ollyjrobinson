@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:43:30.836Z'
-dateModified: '2016-04-26T12:43:15.777Z'
+datePublished: '2016-04-26T12:46:02.100Z'
+dateModified: '2016-04-26T12:43:38.781Z'
 title: On Automation
 author: []
 sourcePath: _posts/2016-04-26-on-automation.md
