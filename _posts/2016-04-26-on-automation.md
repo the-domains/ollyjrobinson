@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:32:27.296Z'
-dateModified: '2016-04-26T12:32:07.972Z'
+datePublished: '2016-04-26T12:43:30.836Z'
+dateModified: '2016-04-26T12:43:15.777Z'
 title: On Automation
 author: []
+sourcePath: _posts/2016-04-26-on-automation.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-on-automation.md
-published: true
 url: on-automation/index.html
 _type: Article
 
@@ -26,9 +26,9 @@ _type: Article
 
 ****
 
-Nobody seems
-able to agree on when humans started using tools, other than to say it was
-a really, really long time ago. 
+The automation of 
+
+Nobody seems able to agree on when humans started using tools, other than to say it was a really, really long time ago. 
 
 The further back we try to trace them, the harder it becomes to differentiate between human artifacts (early tools) and naturally-occurring objects (pointy rocks). 
 
@@ -38,7 +38,7 @@ Everything in-between, from the wheel to autonomous drones, can be split into tw
 
 * Technologies of **Enhancement**
 
-* Technologies of **Automation**
+Technologies of **Automation**
 
 Enhancement technologies **augment** our capabilities, allowing us to achieve things we could never achieve without them.
 
@@ -96,7 +96,4 @@ The former question is more approachable, at least from an individual perspectiv
 
 We're still very much in the realm of educated guesses though. Even technologists can't agree on the potential limits of technology, let alone the more sceptically-inclined. 
 
-Instead, perhaps
-what history teaches us more than anything else is to distrust the status quo.
-The one thing we can be certain of is that the future economy will be different
-to the current one, whether we're part of it not.
+Instead, perhaps what history teaches us more than anything else is to distrust the status quo. The one thing we can be certain of is that the future economy will be different to the current one, whether we're part of it not.
