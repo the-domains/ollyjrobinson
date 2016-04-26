@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:46:02.100Z'
-dateModified: '2016-04-26T12:43:38.781Z'
+datePublished: '2016-04-26T12:49:58.389Z'
+dateModified: '2016-04-26T12:49:26.770Z'
 title: On Automation
 author: []
 sourcePath: _posts/2016-04-26-on-automation.md
@@ -26,8 +26,6 @@ _type: Article
 
 ****
 
-The automation of 
-
 Nobody seems able to agree on when humans started using tools, other than to say it was a really, really long time ago. 
 
 The further back we try to trace them, the harder it becomes to differentiate between human artifacts (early tools) and naturally-occurring objects (pointy rocks). 
@@ -38,7 +36,7 @@ Everything in-between, from the wheel to autonomous drones, can be split into tw
 
 * Technologies of **Enhancement**
 
-Technologies of **Automation**
+* Technologies of **Automation**
 
 Enhancement technologies **augment** our capabilities, allowing us to achieve things we could never achieve without them.
 
