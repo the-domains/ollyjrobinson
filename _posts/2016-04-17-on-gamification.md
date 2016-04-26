@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'As researchers, we have a responsibility (whether we like it or not) for the people taking part in our research. '
-datePublished: '2016-04-25T18:04:22.908Z'
-dateModified: '2016-04-25T18:00:13.866Z'
+datePublished: '2016-04-26T12:41:24.807Z'
+dateModified: '2016-04-26T12:38:03.759Z'
 title: On Gamification
 author: []
 sourcePath: _posts/2016-04-17-on-gamification.md
