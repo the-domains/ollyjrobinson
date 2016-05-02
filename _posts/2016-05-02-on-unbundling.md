@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T13:40:57.893Z'
-dateModified: '2016-05-02T13:40:45.387Z'
+datePublished: '2016-05-02T13:42:41.835Z'
+dateModified: '2016-05-02T13:41:06.999Z'
 title: On unbundling
 author: []
 sourcePath: _posts/2016-05-02-on-unbundling.md
