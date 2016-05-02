@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ollyjrobinson]]></title>
         <description><![CDATA[ollyjrobinson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ollyjrobinson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 15:21:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 15:22:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ollyjrobinson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[A]]></title>
             <description><![CDATA[<p>Thoughts on:</p>]]></description>
-            <link>undefineda/index.html</link>
+            <link>https://thegrid.ai/ollyjrobinson/a/index.html</link>
             <guid isPermaLink="false">816c5909-5dea-46c0-9363-7871b6ea92a3</guid>
-            <pubDate>Mon, 02 May 2016 15:21:26 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 15:22:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
