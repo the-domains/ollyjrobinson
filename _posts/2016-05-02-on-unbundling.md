@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T13:40:23.808Z'
-dateModified: '2016-05-02T13:39:36.910Z'
+datePublished: '2016-05-02T13:40:36.818Z'
+dateModified: '2016-05-02T13:40:32.811Z'
 title: On unbundling
 author: []
+sourcePath: _posts/2016-05-02-on-unbundling.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-on-unbundling.md
-published: true
 url: on-unbundling/index.html
 _type: Article
 
