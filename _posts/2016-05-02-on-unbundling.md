@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-02T13:40:36.818Z'
-dateModified: '2016-05-02T13:40:32.811Z'
+datePublished: '2016-05-02T13:40:57.893Z'
+dateModified: '2016-05-02T13:40:45.387Z'
 title: On unbundling
 author: []
 sourcePath: _posts/2016-05-02-on-unbundling.md
@@ -94,5 +94,4 @@ This is what both incumbents and new entrants in Financial Services are wrestlin
 
 ****
 
-**Change
-is definitely coming, but it's too early to tell what shape it will take. **
+**Change is definitely coming, but it's too early to tell what shape it will take. **
